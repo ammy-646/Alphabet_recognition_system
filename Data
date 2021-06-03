@@ -1,0 +1,5 @@
+Download the data from the given link and paste it in the project folder
+for prediction of alphabet thses images nad data is used
+emnist-letters-test-images-idx3-ubyte.gz
+emnist-letters-test-labels-idx1-ubyte.gz
+emnist-letters-train-images-idx3-ubyte.gz
